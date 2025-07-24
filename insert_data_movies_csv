@@ -1,0 +1,22 @@
+INSERT INTO MovieRatings VALUES
+
+(1, 'Inception',          'Sci-Fi',      2010,    8.8,    'Christopher Nolan',    148,    'English',    'Netflix'),
+(2, 'Interstellar',       'Sci-Fi',      2014,    8.6,    'Christopher Nolan',    169,    'English',    'Amazon Prime'),
+(3, '3 Idiots',           'Drama',       2009,    8.4,    'Rajkumar Hirani',      170,    'Hindi',      'Netflix'),
+(4, 'The Dark Knight',    'Action',      2008,    9.0,    'Christopher Nolan',    152,    'English',    'HBO Max'),
+(5, 'Dangal',             'Biography',   2016,    8.3,    'Nitesh Tiwari',        161,    'Hindi',      'Disney+ Hotstar'),
+(6, 'Parasite',           'Thriller',    2019,    8.6,    'Bong Joon-ho',         132,    'Korean',     'Amazon Prime'),
+(7, 'Avengers: Endgame',   'Action',     2019,    8.4,    'Anthony Russo',        181,    'English',     'Disney+'),
+(8, 'Joker',              'Drama',       2019,    8.4,    'Todd Phillips',        122,    'English',     'Netflix'),
+(9, 'The Godfather',      'Crime',       1972,    9.2,    'Francis Ford Coppola', 175,    'English',    'Amazon Prime'),
+(10, 'PK',               'Comedy',       2014,    8.1,    'Rajkumar Hirani',      153,     'Hindi',     'Netflix'),
+(11, 'The Shawshank Redemption', 'Drama', 1994,   9.3,    'Frank Darabont',       142,     'English',    'HBO Max'),
+(12, 'Drishyam',          'Thriller',    2015,    8.2,    'Nishikant Kamat',      163,     'Hindi',     'Amazon Prime'),
+(13, 'Black Panther',     'Action',      2018,    7.3,    'Ryan Coogler',         134,     'English',    'Disney+'),
+(14, 'Zindagi Na Milegi Dobara', 'Drama', 2011,   8.2,    'Zoya Akhtar',          155,     'Hindi',      'Netflix'),
+(15, 'Bahubali',          'Action',       2015,   8.0,     'S. S. Rajamouli',     159,     'Telugu',      'Disney+'),
+(16, 'Shershaah',         'Biography',    2021,   8.4,    'Vishnuvardhan',        135,     'Hindi',     'Amazon Prime'),
+(17, 'Lagaan',            'Drama',        2001,   8.1,    'Ashutosh Gowariker',   224,     'Hindi',      'Netflix'),
+(18, 'RRR',               'Action',       2022,   8.0,    'S. S. Rajamouli',      182,     'Telugu',      'Netflix'),
+(19, 'Gully Boy',         'Musical',      2019,   7.9,    'Zoya Akhtar',          154,     'Hindi',       'Amazon Prime'),
+(20, 'Titanic',           'Romance',      1997,   7.8,    'James Cameron',        195,     'English',     'Disney+');
