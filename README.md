@@ -10,8 +10,7 @@ Click below to view the sample datasets used in this project:
 
 You can also download the full Excel file used for analysis:
 
-📊 [Excel Insights File](Movie_Ratings_SQL_Projects_CSV/Movie_Ratings_SQL_Project_Insights.xlsx)
-
+📊 [Download Full Excel Dataset](https://github.com/prachi-singh-ds/Movie_Ratings_Dashboard_SQL/raw/main/Movie_Ratings_SQL_Projects_CSV.xlsx)
 
 🔗 GitHub Project Link: [Click here to view this project on GitHub](https://github.com/prachi-singh-ds/Movie_Ratings_Dashboard_SQL)
 
