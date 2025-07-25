@@ -4,13 +4,14 @@ m# 🏥 Hospital Management System (SQL Project)
 
 Click below to view the sample datasets used in this project:
 
-- 🎬 [Movies.csv](Movies.csv)  
-- ⭐ [Ratings.csv](Ratings.csv)  
-- 👤 [Users.csv](Users.csv)
+- 🎬 [Movies.csv](Movie_Ratings_SQL_Projects_CSV/Movies.csv)  
+- ⭐ [Ratings.csv](Movie_Ratings_SQL_Projects_CSV/Ratings.csv)  
+- 👤 [Users.csv](Movie_Ratings_SQL_Projects_CSV/Users.csv) 
 
 You can also download the full Excel file used for analysis:
 
-📊 [Movie_Ratings_SQL_Projects_CSV.xlsx](./MOVIE_RATINGS_CSV/Movie_Ratings_SQL_Projects_CSV.xlsx)
+📊 [Excel Insights File](Movie_Ratings_SQL_Projects_CSV/Movie_Ratings_SQL_Project_Insights.xlsx)
+
 
 🔗 GitHub Project Link: [Click here to view this project on GitHub](https://github.com/prachi-singh-ds/Movie_Ratings_Dashboard_SQL)
 
