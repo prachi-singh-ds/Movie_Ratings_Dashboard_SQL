@@ -4,9 +4,9 @@ m# 🏥 Hospital Management System (SQL Project)
 
 Click below to view the sample datasets used in this project:
 
-- 🎬 [Movies.csv](./MOVIE_RATINGS_CSV/Movies.csv)  
-- ⭐ [Ratings.csv](./MOVIE_RATINGS_CSV/Ratings.csv)  
-- 👤 [Users.csv](./MOVIE_RATINGS_CSV/Users.csv)
+- 🎬 [Movies.csv](Movies.csv)  
+- ⭐ [Ratings.csv](Ratings.csv)  
+- 👤 [Users.csv](Users.csv)
 
 You can also download the full Excel file used for analysis:
 
