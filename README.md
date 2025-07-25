@@ -4,9 +4,12 @@ m# 🏥 Hospital Management System (SQL Project)
 
 Click below to view the sample datasets used in this project:
 
-- 🎬 [Movies.csv](Movie_Ratings_SQL_Projects_CSV/Movies.csv)  
-- ⭐ [Ratings.csv](Movie_Ratings_SQL_Projects_CSV/Ratings.csv)  
-- 👤 [Users.csv](Movie_Ratings_SQL_Projects_CSV/Users.csv) 
+Here are the 3 CSV datasets used in the SQL project:
+
+1. 📽️ [Movie Dataset (movies.csv)](https://github.com/prachi-singh-ds/Movie_Ratings_Dashboard_SQL/blob/main/insert_data_movies_csv)
+2. ⭐ [Ratings Dataset (ratings.csv)](https://github.com/prachi-singh-ds/Movie_Ratings_Dashboard_SQL/blob/main/extra_insights_csv)
+3. 👤 [Users Dataset (users.csv)](https://github.com/prachi-singh-ds/Movie_Ratings_Dashboard_SQL/blob/main/basic_queries_csv)
+
 
 You can also download the full Excel file used for analysis:
 
