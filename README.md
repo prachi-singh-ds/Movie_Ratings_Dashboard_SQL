@@ -12,7 +12,7 @@ You can also download the full Excel file used for analysis:
 
 📊 [Movie_Ratings_SQL_Projects_CSV.xlsx](./MOVIE_RATINGS_CSV/Movie_Ratings_SQL_Projects_CSV.xlsx)
 
-
+🔗 GitHub Project Link: [Click here to view this project on GitHub](https://github.com/prachi-singh-ds/Movie_Ratings_Dashboard_SQL)
 
 This SQL-based **Hospital Management System** is developed as part of my Data Science learning journey. The project demonstrates how structured data can be managed, queried, and analyzed in a hospital setup using Microsoft SQL Server.
 
